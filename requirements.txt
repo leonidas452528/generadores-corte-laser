@@ -1,0 +1,7 @@
+numpy
+shapely
+matplotlib
+ezdxf
+trimesh
+scipy
+contourpy

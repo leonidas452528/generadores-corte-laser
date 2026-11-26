@@ -1,0 +1,33 @@
+# dependencias y builds
+node_modules/
+dist/
+build/
+.next/
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+bin/
+obj/
+.vs/
+# secretos y datos locales
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite3
+credentials*.json
+token.json
+instance/
+logs/
+*.log
+# modelos pesados
+*.pt
+*.pth
+*.h5
+*.onnx
+# sistema
+.DS_Store
+Thumbs.db
+.~lock*
